@@ -1,5 +1,6 @@
 Mensaje 1
 
-Placeholder1
+Placeholder1 
+Anexe este texto
 
 Placeholder2
