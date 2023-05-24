@@ -5,3 +5,6 @@ Anexe este texto
 
 Placeholder2
 Anexo segundo texto
+
+Placeholder3
+Anexo tercer texto
